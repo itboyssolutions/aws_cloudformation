@@ -1,0 +1,7 @@
+Install Visual studio
+From extension download cloudformation Linter
+Install python from https://www.python.org/downloads > Run setup file with admin, click on set path then click on install. Check if installed properly by python --version in cmd. 
+Restart VS
+Open Visual studio, look for terminal in the top menu bar and run below commands. 
+ pip install cfn-lint
+ pip install pydot
